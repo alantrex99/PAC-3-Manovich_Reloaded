@@ -44,6 +44,7 @@ La vida de Frida Kahlo va estar marcada per la malaltia. No sols per patir polio
 
 El llit de l'hospital i de la seva casa on va estar mesos immòbil, van ser el lloc en el qual va començar a pintar. Perquè pogués fer-ho van crear un cavallet i sobre el llit es va col·locar un mirall perquè es veiés. No és estrany que ella s'autoretratés en 55 de les seves obres. “Em retrato a mi mateixa, perquè pas molt temps sola i perquè sóc el motiu que més conec”, deia[^9].
 ![Frida Khalo pintant des del llit de l'hospital, on li van muntar un cavellet amb un mirall especial](https://i.pinimg.com/originals/9a/ec/60/9aec60bf0135c4d32ae40930dbcb46e1.jpg)
+
 La proposta que ens fa l'Ideal, realitzada tota per artistes del terreny barcelonès, o de la mateixa zona del Poblenou, ens explica amb imatges el terrible accident a través d'una impactant instal·lació firmada per l'empresa  Nueveojos[^10]. Cinc de les pantalles sobreposades aconsegueixen un efecte volumètric en el qual es veu la seva figura de porcellana es fa miques després d'un fort xoc.
 
 Artbreeder[^11] ha dissenyat, mitjançant un logaritme d'inteligencia artificial, una espècie de mapping que es projecta sobre un llit de manera vertical, col·locat just davant la paret que es pot veure a la Frida, de manera decrèpita, en el qual es representen molts dels seus símbols característics de la pintura, referenciant el naixement i la mort, la salut i la malaltia.
